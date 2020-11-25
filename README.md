@@ -93,7 +93,7 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/imb(53).pdf" style="text-decoration:none;">MeLIME: Meaningful Local Explanation for Machine Learning Models</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/imb(54).pdf" style="text-decoration:none;">Captum: A unied and generic model interpretability library for PyTorch </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/imb(54).pdf" style="text-decoration:none;">Captum: A unified and generic model interpretability library for PyTorch </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Interpretable-Machine-Learning-Papers/blob/master/imb(55).pdf" style="text-decoration:none;">Anchors: High-Precision Model-Agnostic Explanations</a></li>
  
